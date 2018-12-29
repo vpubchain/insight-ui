@@ -1,8 +1,8 @@
 {
-  "name": "@dashevo/insight-ui",
-  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the Dash network and build your own services with it.",
-  "version": "1.1.1",
-  "repository": "git://github.com/dashevo/insight-ui.git",
+  "name": "@vpubevo/insight-ui",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the Vpub network and build your own services with it.",
+  "version": "0.1.1",
+  "repository": "git://github.com/vpubevo/insight-ui.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -26,20 +26,20 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/dashevo/insight-ui/issues"
+    "url": "https://github.com/vpubchain/insight-ui/issues"
   },
-  "homepage": "https://github.com/dashevo/insight-ui",
+  "homepage": "https://github.com/vpubchain/insight-ui.git",
   "license": "MIT",
   "keywords": [
     "insight",
     "blockchain",
     "blockexplorer",
-    "dash",
-    "bitcore-dash",
+    "vpub",
+    "bitcore-vpub",
     "front-end",
-    "dashcore"
+    "vpubcore"
   ],
-  "dashcoreNode": "dashcore-node",
+  "vpubcoreNode": "vpubcore-node",
   "scripts": {
     "build": "bower install && grunt compile",
     "watch": "grunt",
