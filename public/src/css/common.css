@@ -417,7 +417,7 @@ margin-left: 0;
   margin-right: 2px;
 }
 
-.line-footer { border-top: 2px dashed #ccc; }
+.line-footer { border-top: 2px vpubed #ccc; }
 
 #footer .links {
   color: #ddd;
@@ -866,7 +866,7 @@ a.v_highlight_more {
   min-width: 100%;
 }
 
-/* Dash rebrand, 2018-05-28 */
+/* Vpub rebrand, 2018-05-28 */
 a {
   color: #008de4;
 }

@@ -1,7 +1,7 @@
 {
   "name": "@vpubevo/insight-ui",
   "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the Vpub network and build your own services with it.",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "repository": "git://github.com/vpubevo/insight-ui.git",
   "contributors": [
     {
