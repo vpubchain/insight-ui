@@ -21,17 +21,17 @@ msgstr "404 页面不存在"
 
 #: public/views/index.html
 msgid ""
-"<strong>insight</strong>  is an <a href=\"http://live.insight.is/\" target="
+"<strong>insight</strong>  is an <a href=\"https://insight.is/\" target="
 "\"_blank\">open-source Vpub blockchain explorer</a> with complete REST and "
 "websocket APIs that can be used for writing web wallets and other apps  that "
 "need more advanced blockchain queries than provided by vpubd RPC.  Check "
-"out the <a href=\"https://github.com/bitpay/insight-ui\" target=\"_blank"
+"out the <a href=\"https://github.com/vpubchain/insight-ui\" target=\"_blank"
 "\">source code</a>."
 msgstr ""
 "<strong>insight</strong>是一个开源的比特币区块链浏览器。<a href=\"http://live."
 "insight.is/\" target=\"_blank\">支持完整的REST和Web Socket API 调用，可用于编"
-"写Web钱包和其他需要比bitcoind RPC提供的更高级区块链查询的应用程序。查看源代码"
-"</a><a href=\"https://github.com/bitpay/insight-ui\" target=\"_blank\"></a>"
+"写Web钱包和其他需要比bitcoind RPC提供的更高级区块链查询的应用程序。查看"
+"</a><a href=\"https://github.com/bitpay/insight-ui\" target=\"_blank\">源代码</a>"
 
 #: public/views/index.html
 msgid ""
