@@ -32,12 +32,9 @@ msgstr ""
 
 #: public/views/index.html
 msgid ""
-"<strong>insight</strong> is still in development, so be sure to report any "
-"bugs and provide feedback for improvement at our <a href=\"https://github.com/"
-"bitpay/insight/issues\" target=\"_blank\">github issue tracker</a>."
+"<strong>insight</strong> is still in development, so be sure to report any bugs and provide feedback for improvement at our <a href=\"https://github.com/vpubchain/insight-ui/issues\" target=\"_blank\">github issue tracker</a>."
 msgstr ""
-"<strong>该系统</strong>仍在开发中<a href=\"https://github.com/bitpay/insight/"
-"issues\" target=\"_blank\">详情</a>发现问题或提供反馈请报告给我们的开发人员"
+"<strong>insight</strong>仍在开发中,如果您在使用过程中发现问题或提供反馈请<a href=\"https://github.com/vpubchain/insight-ui/issues\" target=\"_blank\">报告</a>给我们的开发人员。"
 
 #: public/views/index.html
 msgid "About"
