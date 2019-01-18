@@ -70,7 +70,7 @@ msgstr "Bitcoin可以签名任意消息"
 
 #: public/views/status.html
 msgid "Bitcoin node information"
-msgstr "比特币节点信息"
+msgstr "节点信息"
 
 #: public/views/block.html
 msgid "Block"
@@ -267,7 +267,7 @@ msgstr "下一个区块"
 
 #: public/views/transaction/tx.html
 msgid "No Inputs (Newly Generated Coins)"
-msgstr "没有输入(新生产的币)"
+msgstr "没有输入(新生产)"
 
 #: public/views/block_list.html
 msgid "No blocks yet."
@@ -430,13 +430,13 @@ msgstr "此地址没有发生过交易"
 msgid ""
 "This form can be used to broadcast a raw transaction in hex format over\n"
 "        the Bitcoin network."
-msgstr "此表单可用于以十六进制格式通过比特币网络广播一个原始事务。"
+msgstr "此表单可用于以十六进制格式通过区块网络广播一个原始事务。"
 
 #: public/views/messages_verify.html
 msgid ""
 "This form can be used to verify that a message comes from\n"
 "        a specific Bitcoin address."
-msgstr "此表单可用于验证消息是否来自特定的比特币地址。"
+msgstr "此表单可用于验证消息是否来自特定的维公链地址。"
 
 #: public/views/status.html
 msgid "Time Offset"
